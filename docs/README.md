@@ -1,6 +1,8 @@
-# Solid
+# OPSZ.com is using Solid as a base for the website template. 
+* The website will be hosted on GitHub Pages for the time being. There are no plans to migrate the hosting to any other party for the time being. 
+* The API that OPSZ.com will be contacting with will be under API.OPSZ.COM with a CNAME.
 
-A landing page template.
+# Solid A landing page template. (From the original developers)
 
 * [Getting started](#getting-started)
 
